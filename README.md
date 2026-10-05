@@ -1,2 +1,0 @@
-# conference-talks
-Cybersecurity presentations
